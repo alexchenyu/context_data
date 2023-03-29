@@ -1,0 +1,1244 @@
+a2ac5: Hello. How may I help you?
+b4279: Hi Brett! 
+a2ac5: Hey Joe, I just Placed an Order (1000023379) unforuntly i didnt realize that i had placed 3 of MCP-220-73301-0N in my cart, which are not compatible with my Server.
+b4279: I see. Do you need to take those three items off your order ?
+a2ac5: If you could, that would be great!
+b4279: The only way to do this will be canceling the order and reorder again
+a2ac5: thats fine!
+b4279: You can cancel your order after login to your account https://store.supermicro.com/customer/account/login/referer/aHR0cHM6Ly9zdG9yZS5zdXBlcm1pY3JvLmNvbS8_dXRtPWhlYWRlcg%2C%2C/ Go to My account --> My orders
+a2ac5: got it! very good, sorry I wasn't aware of that feature. Thank you so much!
+b4279: No worries, Glad to help ! Can I help you with anything else? 
+a2ac5: No Thank You, Joe. 5 Stars. Brett Lovell left the following comment: Great Job!
+b4279: You're welcome.  Thanks! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hi Kyle, I bought a Quadro RTX 6000 for this server - SYS-1029P-WTRT Unfortunately it appears that i doesn't fit physically looking for assistance on what cards will work Thanks!
+b4279: Hi Jon That's unfortunate, but let me check which cards are
+a2ac5: Thanks man
+b4279: On both our site and Nvidia, it looks like the only compatible one is the Tesla T4.  https://www.supermicro.com/en/support/resources/gpu https://www.nvidia.com/en-us/data-center/resources/vgpu-certified-servers/?manufacturer=Supermicro&Height=All%20Heights&CardModels=All%20Card%20Models We don't carry any GPUs on the eStore so you'll have to check with distributors/resellers for that oen *one Can I help you with anything else?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Will!
+a2ac5: I'd like to order one server from you. where could I get quotation.
+b4279: Do you have an eStore account created with us?
+a2ac5: not yet
+b4279: Please register an account and let me know your email address. https://store.supermicro.com/customer/account/create/ 
+We can grant you access to browse and configure our current server selection.
+a2ac5: OK, just created an account willwang@picoai.tech
+b4279: Please give me a moment while I check for you. 
+a2ac5: thanks, I like a quotation for 4124 and 4029-TRT2
+b4279: Unfortunately, we don't carry the SYS-4029GP-TRT2 or 4124 on our eStore. However, we do have several system that might meet your qualify on our eStore. You now can be able to configure and see the price of our available systems on our eStore. Please log out and log back in to see this page https://store.supermicro.com/system.html
+a2ac5: Hello. How may I help you? what's the server with GPU? Hello. How may I help you?
+b4279: Hi Will!
+a2ac5: Yes, where could I order 4124 or 4029 servers? No GPU is OK
+b4279: I'm sorry, but unfortunately, we do not carry SYS-4029GP-TRT2 on our eStore. Please check with our resellers and distributors for availability.
+https://www.supermicro.com/en/wheretobuy  Is there anything else I may help you with today? 
+a2ac5: that's fine. thanks
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Michelle!
+a2ac5:  Hi. I’m looking to see if the MCP-290-00056-0N rail will work on my car-813m chassis.
+b4279: Please give me a moment while I check for you. 
+a2ac5: Cse not car thanks
+b4279: Yes, MCP-290-00056-0N will work with CSE-813M
+a2ac5: perfect. My server rack is only about 22” deep, this rail will fit that right?  Also, Do you take returns?
+b4279: That I'm not 100% sure, but I believe it should be OK. 
+
+Yes, you'll have 30 days from the day you received the product to return it.
+a2ac5: ok. Thank you
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: Hello. How may I help you?
+b4279: Hi Will
+a2ac5: for your workstation 7049, do you have one to support PCIe Gen4 instaed of Gen3?
+b4279: Please give me a moment while I check for you.  The PCIe that come with the motherboard is only Gen 3 unfortunately We have the PCIe Gen 4 workstation which is SYS-740A-T
+ https://www.supermicro.com/en/products/system/Workstation/Tower/SYS-740A-T https://store.supermicro.com/sys-740a-t.html We also have the AMD workstation which also has PCIe gen 4: (AS -5014A-TT) https://store.supermicro.com/amd-threadripper-workstation-as-5014a-tt-pre-config.html It will be configurable by tomorrow. If you are interested in the AS -5014A-TT configuration, please come back tomorrow
+a2ac5: How many GPUs they could be installed
+b4279: Please give me a moment while I check for you. 
+a2ac5: Thanks Hello. How may I help you?
+b4279: Hi Will!  Please give me a moment while I check for you on the GPU For the AS -5014A-TT you can have 4GPU but will depend on which GPU you want to add  And the SYS-740A-T can support 2 GPU  You can also check GPU supports through this link https://www.supermicro.com/en/support/resources/gpu They will have more information about GPUs support for each system on this page Is there anything else I may help you with today? 
+a2ac5: That's it. Thanks
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Bernhard!
+a2ac5: Hi! I'd like to buy the OOB license für my server board, but in the checkout process I can only enter a US invoice address. How can I enter an international address? (I am located in Austria/Europe)
+b4279: Unfortunately, our OOB license is only available for US-based customers (US billing address) to purchase at this time. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy
+ I apologize for the inconvenience.
+a2ac5: Ok, thank you for the information!
+And have a nice day,
+Bernhard
+b4279: No problem Bernhard! Thank you, and you as well!
+a2ac5: Hello. How may I help you? Hi Joe Hope you are doing well I currently have a supermicro blade enclosure with 4 power supplies. One has failed and I am looking to buy a replacement This is the model
+https://store.supermicro.com/2000w-blade-pws-2k01a-br.html I see that it is out of stock Is there any possibility of restocking that item or any way I can purchase it from supermicro?
+b4279: Please give me a moment while I check for you. 
+a2ac5: Sure, thank you
+b4279: This item is running low but I can check to see if we can transfer one for your to purchase Can I email you after checking internally ? Is domenic.r@setplex.com the best email to reach you ?
+a2ac5: Okay that'd be great thank you. Yes that email is best
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: Nope, just looking to purchase this one item
+b4279: Got it. Will you update with you via email. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Thanks you too! Hello. How may I help you? Hi I am looking for storage solution for our office. Can you give me an advice on that?
+b4279: Hi Eugene Sure How many drives were you planning to have? What form factor chassis/case did you want? Do you have an eStore account with us already so that you can browse our selection?
+a2ac5: I am thinking about up to 24 hot swapable 3.5" SATA drives, with 2x2.5" SSDs
+b4279: Oh ok, thanks! We may have a server that has those specs. Meanwhile, can you create an account so that I can provide you access? https://store.supermicro.com/customer/account/create/
+a2ac5: will do just created an account
+b4279: Ok thanks with this email address? eugenek@safeai.ai
+a2ac5: yes
+b4279: Ok found it, took awhile to refresh. You should have access now. Please log into your account to view the Servers tab So I was checking what we can offer and I'm sorry, the 24 Hot-swappable drives were for 2.5" ones. The closest server that we can offer is a 45 drive bay. 
+a2ac5: another option would be 24 3.5" drives with expansion later
+b4279: The only 24 drive bay options we currently have are for 2.5" drives. T
+
+he 12 drive bay option is what we can only offer for 3.5", then it jumps to 45 unfortunately.  Let me check if we have any upcoming ones though down the road
+a2ac5: can you send me the spec for 45 drives?
+b4279: Sure Our SSG-6049P-E1CR45H does support up to 45 3.5" or 2.5" drives, 12 just need to be occupied at the minimum.  https://store.supermicro.com/supermicro-4u-superstorage-server-ssg-6049p-e1cr45h.html it has 2 x rear drive slots for SSD as well Also 6 internal drives as well Do you plan on using up to 24+ drives? This would be ideal for future expansion in this case
+a2ac5: Let me check
+b4279: Ok  The 6 internal drives are for NVMe btw and non-hot swappable
+a2ac5: How you swap the drives? Do you need to remove the cover ?
+b4279: For the 45 drives, they are hot-swappable from the top. The internal NVMe drives, you will have to though
+a2ac5: Another question. Will it support  JBOD configuration?
+b4279: Let me check on that
+a2ac5: also, does it come with OS?
+b4279: Windows Server 2019 can be added. For other OS, you will have to install yourself. 
+a2ac5: I am thinking on TrueNAS on BSD
+b4279: This doesn't look to have JBOD capabilities unfortunately. 
+a2ac5: Any other JBOD capable models?
+b4279: Not sold from the eStore. You'd have to check with our Sales team on those options.  https://www.supermicro.com/en/products/chassis?pro=filter%3Dfeature%26feature%3DJBOD Sales-USA@supermicro.com The servers we carry on the eStore don't have the expander backplanes needed for JBOD functionality Well the 45-bay and 60-bay do but internally for the amount of drives they support within themselves
+a2ac5: Great! Thank you very much. I'll try to reach sales dept.
+b4279: Sounds good, you're welcome!  If you have any other questions, let me know. 
+a2ac5: this server looks promising:
+https://www.supermicro.com/en/products/chassis?pro=filter%3Dfeature%26feature%3DJBOD
+b4279: Which model? It took me to the general page showing all of them
+a2ac5: SuperChassis 946LE1C-R1K66JBOD Can you quote it?
+b4279: I can't from our end since we don't offer this particular one on the eStore. Please check with our Sales team on this. 
+a2ac5: Got it.👍
+b4279: Np! Can I help you with anything else?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Michael
+a2ac5: Di you ship to Australia?
+b4279: I'm sorry, but unfortunately, our Supermicro eStore currently only ships within the United States. Please check with our resellers and distributors for availability.
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: OK thanks
+b4279: You're welcome. Is there anything else I may help you with today? 
+a2ac5: Not today. Only suggest that the US shipping policy only changeds to International as well.
+b4279: I will pass your suggestion  Thank you. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: thanks, by Hello. How may I help you?
+b4279: Hi Valeriu!
+a2ac5: hello Jim
+b4279: How can I help you?
+a2ac5: I have a motherboard  X9DRi-LN4F+ 2 processor - E5 2679v2 I can't find a memory for her ??
+b4279: What capacity memory are you looking for? And what speed?
+a2ac5: 32 Gb  - LRDIMM !
+b4279: OK, please give me one moment to check. It looks like there's only 1 32GB LRDIMM that's been validated for your motherboard:
+
+MEM-DR332L-SL05-LR16 It's a 32GB DDR3-1600 4Rx4 LP ECC LR DIMM You will have to check with our resellers for availability since we don't carry it on our eStore.
+
+https://www.supermicro.com/en/wheretobuy
+a2ac5: Such memory can be filled in all 24 slots ??
+b4279: Yes, you should be able to fill all 24 slots with this memory. Is there anything else I may help you with today? 
+a2ac5: That is, it works in rank 4 !! ???
+b4279: Yes, this is a rank 4 DIMM
+a2ac5: But there is one that works in Octal ???
+b4279: I'm not sure what you mean?
+a2ac5: What can you say about her ??
+b4279: Are you asking about other LRDIMMs with lower rank? I'm not understanding your question, sorry
+a2ac5: I also do not understand the drawing from the document  !
+b4279: What document are you referring to?
+a2ac5: https://www.supermicro.com/support/resources/memory/X9_DP_memory_config.pdf E5-2600 v2 (Ivy Bridge)
+Socket R Memory Configuration !!!
+b4279: So from my understanding, each CPU can support 12 quad rank DIMMs. Since you're using 2 CPUs, you can support 24 total, which is all of the slots on the motherboard
+a2ac5: Ranks per DIMM  - Octal & Quad  = Maximum LRDIMMs per
+CPU  12
+b4279: Right, so each CPU supports 12 total DIMMs, and with 2 CPUs in your system you can support a total of either 24 octal or quad rank DIMMs
+a2ac5: is everything  right ?? but is it one and the same memory - or is it different ??
+b4279: We don't recommend mixing and matching memory so you'll have to use the same one. So all 24 would have to be quad rank or all 24 would have to be octal rank In this case, if you're going with MEM-DR332L-SL05-LR16, all 24 should be MEM-DR332L-SL05-LR16.
+a2ac5: OK, thanks - Jim !!!
+b4279: No problem Valeriu! Is there anything else I may help you with today? 
+a2ac5: No, thank you very much !!
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: 👌 Hello. How may I help you? Hello, I currently have a 846BA-R920B with the redundant 920W PSUs and I was wondering if a higher wattage PSU is compatible with it and the current power distributor.
+b4279: Hi Chandler I can check, please give me a moment
+a2ac5: Thank you
+b4279: How much higher wattage are you looking for?
+a2ac5: Probably around 1280W.
+b4279: Ok thanks PWS-1K21P-1R is the closest one, but we are currently out of stock. The next one up is 1400W https://store.supermicro.com/1200w-1u-pws-1k21p-1r.html The 1400W option is also out of stock unfortunately.  PSU shortages unfortunately
+a2ac5: Ok, do either of these come in the quiet version as well or is that not an option on these? And that's okay, planning for an upgrade and not in a rush.
+b4279: There's PWS-1K41P-SQ, but it looks to be EOL (end of life)  so it doesn't look like there is a SQ version with higher wattage that is compatible unless you search for that 1400W version from our resellers/distributors PWS-1K28P-SQ may also work actually, it wasn't listed for me Also out of stock, but you can search for that too 
+a2ac5: Perfect, thank you for the part numbers!
+b4279: You're welcome! You're best option looks to be the 1280W one followed by the 1400W for the SuperQuiet versions Can I help you with anything else? 
+a2ac5: That's everything, thanks!
+b4279: Np! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hi, do you have fan : 0126L4 in stock?
+b4279: Hi Abdur! May I know where you are located?
+a2ac5: Toronto, Canada
+b4279: I'm sorry, but unfortunately, our Supermicro eStore currently only ships within the United States. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: Thanks
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: No , thanks. I will check first this fan and will jump to next fan later on
+b4279: You're welcome.  I see. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Bye Hello. How may I help you? Hi there! I ordered something yesterday around 1pm central time and paid for overnight shipping. I see it's status is still at 2, 'In Warehouse'.
+b4279: Hi Gabriel The system is still being built. Once it is built within the next day or 2, it will ship out with overnight shipping. You will get a shipping confirmation once it has ship.  
+a2ac5: Mmmm... This is unclear.  A the top of the item, it says "Ships within 3-5 business days" and "In Stock".
+
+On the shipping methods page, it has 'Standard (3~5 business days)' and then 'Overnight (Next business day)'.
+
+No where on here does it indicate that there are additional days for assembly. The closest thing is the "All Supermicro desktop/workstation systems sold in the North America are assembled and tested at our production facilities in San Jose, CA Headquarters."
+
+But this still doesn't clarify that
+b4279: Yeah understandable, I apologize for the confusion.  Yeah it typically takes 1-2 business days for assembly. 
+a2ac5: The issue is I will be out of town when it is delivered now.  I'll see if I can figure something out with a friend, but I wish I knew this ahead of time so there's not a desktop sitting in front of my door for 2 days. I know that isn't your fault though.
+b4279: Oh no, that's unfortunate. Hopefully that's not the case, or your friend can accommodate for your delivery. 
+a2ac5: Could you pass my complaint along to someone who can clarify this for future purchasers?
+Just a "Takes 1-2 days to build in addition to shipping time" on the product page and/or shipping page?
+b4279: Yeah I just passed my concern to management as well.  on this very line
+a2ac5: Thank you!
+b4279: You're welcome
+a2ac5: Do you happen to know if the packages are usually delivered in the morning or evening for next day delivery, or does that just vary a lot?
+
+To try to coordinate with a friend to grab it.
+b4279: For overnight delivery, it can vary so I'd recommend checking what's on the FedEx site. 
+
+If it was priority overnight, it would deliver by 10:30AM local time.  They usually deliver morning/noonish from my experience but it can vary depending on your area. 
+a2ac5: Oof.. they'll all be at work, but hopefully it works out! At least it's not for the whole weekend.
+
+Anyway, I appreciate that help, Kyle!  I'm optimistic it won't be an issue!
+b4279: NP, of course and I sure hope its not an issue! Again, I apologize for the confusion and hope we can get this wording updated on our end. 
+a2ac5: Thanks, Kyle!  Have a good day, sir!
+b4279: Thank you! It was nice talking to you. Have a good day as well, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Steve!
+a2ac5: Hello Liz! I'm looking for a way to convert this chassis into a low profile rear breakout. I know this item I'm looking for is not to be found in your eStore. But I'd like to see if this is possible?
+b4279: Please give me a moment while I check for you.  Can you please explain a little bit for the low profile rear breakout?
+a2ac5: This would be the entire rear bracket, which would convert from 802WB to 802LPB style bracket. The bracket is removeable on the CSE-825MBTQC-R802WB, and does seem to be exactly compatible with the LPB bracket provided in model # CSE-825MBTQ-R802LPB.
+b4279: I see. I could check internally for this. Can I email you back via email swilliams@nverzion.com? Thank you for your information
+a2ac5: Yes, absolutely. Thank you Liz!
+b4279: You're welcome. 
+a2ac5: If this is possible, I would likely need ten of these brackets total.
+b4279: Sound good! I will email you back as soon as I can. Is there anything else I may help you with today? 
+a2ac5: That is all for now!
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: You too, goodbye
+b4279: Thanks
+a2ac5: Steve Williams left the following comment: Liz is amazing! Hello. How may I help you? I am trying to find out if I can have one of the SNK-P0078AP4 overnighted to me so I can have it for tomorrow and the cost.
+b4279: Hi Sarah. I'll have to check on our inventory since we're currently out of stock
+a2ac5: I did place two orders and one was schedule to arrive yesterday and didn't show and the other is scheduled to arrive on Monday. I am just trying to locate one for testing.
+b4279: Ahh OK. I can definitely transfer an additional unit over so you can purchase, but the window for the transfer + purchase + shipping cut off might be pretty tight since our shipping cut off is 3:30 PM. As long as the transfer and order is placed before that, it should arrive tomorrow if you choose overnight shipping.
+a2ac5: Do you know how many you can transfer for purchase?
+b4279: How many did you need for tomorrow?
+a2ac5: I really need one by tomorrow.
+b4279: We can definitely do one.
+a2ac5: do you have an additional 30 that can be transferred in addition to the one. There would be no rush for the additional 30
+b4279: Yes, we should also be able to accommodate that. I'll put the transfer request in now and follow up with you via email once it's completed.
+a2ac5: Great, thank you so much.
+b4279: No problem Sarah!# Is there anything else I may help you with today? 
+a2ac5: no that is all. thank you
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? ANY PROMO CODE?
+b4279: Hi Javiela ! I am sorry but we don't have an coupon code available at the moment Can I help you with anything else? 
+a2ac5: Hello. How may I help you? Hi Kyle,  do we have OOB license key installed with the 4124GSTNR chassis? or we need to buy these key separately?
+b4279: Hi Juan It would depend if you purchased it along with your server from your reseller or Sales person. Do you have the serial number of the system?
+a2ac5: Sure give me a sec S404070X1907784
+b4279: Thanks
+a2ac5: PO# SMC100721 theres a bunch of SN on that PO just wanted to double check if they have OOB licensed installed
+b4279: it does have OOB installed on it
+a2ac5: Thanks for checking
+b4279: You're welcome I would hope all of them do in this case
+a2ac5: got it - thank you so much!
+b4279: Np! Can I help you with anything else? 
+a2ac5: 1 more thing please
+b4279: Sure
+a2ac5: Need ah Mini-SAS to SlimSASx4 cables to connect the RAID card le tme get the SN of the machine
+b4279: ok
+a2ac5: 1114CS-TNR S452392X1C09438
+b4279: Thank you, please give me a moment while I check mini-SAS HD or just mini-SAS? The only one we carry is this one: https://store.supermicro.com/supemicro-slimline-sas-x8-le-to-2x-minisas-hd-70cm-cable-cbl-sast-0826.html
+a2ac5: sff 8643 to mini sas does it exist? oh this one
+b4279: 8643 is miniSAS HD  so miniSAS HD to miniSAS? so the backplane is slimline but the AOC is miniSAS? looks to be miniSAS HD on that AOC
+a2ac5: yep
+b4279: It looks like the optional part that our product page list is CBL-SAST-1260-100 MiniSAS HD x8 (LE) to 2x Slimline x4 (STR),60CM
+a2ac5: is it available in estore?
+b4279: We don't carry this one on the eStore unfortunately so you'll have to check with our distributors for that  https://www.supermicro.com/en/wheretobuy
+a2ac5: got it thank you!
+b4279: You're welcome Is there anything else I may help you with?
+a2ac5: How can we check in our end for future reference, if OOB is installed is it visible somewhere in the IPMI web GUI?
+b4279: Yeah it should show as activated  https://store.supermicro.com/software/out-of-band-oob-key-activation-guide under license activation, the license key SKU should show up
+a2ac5: Thank you
+b4279: you're welcome Anything else I can help you on?
+a2ac5: That would be all thank you Kyle
+b4279: Np! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: you too. thanks! juan ciriaco left the following comment: Good customer support Hello. How may I help you? Hello. How may I help you?
+b4279: Hi Edward!
+a2ac5: I am looking to get price availability for a MBD-X12SAE motherboard
+b4279: I'm sorry, but unfortunately, we do not carry any motherboards on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy  You can also try checking with our Sales team:
+
+Sales dept: Sales-USA@supermicro.com
+Tel: +1-408-503-8000 Is there anything else I may help you with today?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hi, I have a customer with SYS-6019P-WTR and they have a PSU failure. The original PSU is PWS-706P-1R which is not available the recommended one it looks like is PWS-860P-1R2. Is that correct? and if replacing only 1 PSU with the newer model(PWS-860P-1R2) is that going to work? Or do both PSU's need to be replaced to the new model?
+b4279: We recommend to use identical power supplies I can check if we can get 1 pc PWS-706P-1R  for you.
+a2ac5: thank you
+b4279: You're welcome.  I will update with you via email. Is matt.depaepe@mbx.com the best email to reach you ?
+a2ac5: yes it is, thank you
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: that was all i needed. have a great rest of your day
+b4279: It was nice talking to you. Have a great day, goodbye!  Thanks!
+a2ac5: Matt left the following comment: Very helpful Hello. How may I help you?
+b4279: Hi Shannon!
+a2ac5: I am  trying to find a rail kit compatible with the X418G-X11 4U server chassis
+b4279: May I know the full part number of your server chassis or it's serial number please?
+a2ac5: That is the model number
+b4279: I'm sorry I could not find any server from the  X418G-X11 Can you please provide the serial number of it by follow this https://www.supermicro.com/en/support/rma/sn?
+a2ac5: Looking it up now Sys4029gptrt
+b4279: Thank you! Please give me a moment while I check for you.  You can use the MCP-290-00057-0N https://store.supermicro.com/4u-5u-rail-kit-mcp-290-00057-0n.html 
+a2ac5: Thank youi
+b4279: and the MCP-290-00060-0N -Threaded rail adapter default for round hole rack if needed https://store.supermicro.com/rail-kit-adapter-set-mcp-290-00060-0n.html Is there anything else I may help you with today? 
+a2ac5: That is it.  Thank you
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Jason! 
+a2ac5: Can I get a tracking number for my most recent order?
+b4279: Sure what is the order number please ?
+a2ac5: Invoice #1000019974
+b4279: https://www.fedex.com/fedextrack/?trknbr=979070769750&trkqual=12021~979070769750~FDEG It was delivered Sunday, 5/16/2021 at 10:49 am
+a2ac5: That is not my order.
+b4279: 1000019974 Correct?
+a2ac5: I gave you the invoice number.  I now see the order number.  Order # 1000023392
+b4279: 1000023392 was placed this morning at 6:43 am PST time
+a2ac5: That sounds correct
+b4279: One moment When the order is shipped out later today, the tracking info will be ready in your eStore account https://store.supermicro.com/trackorder/?order_id=1000023392&email_address=jbreitman@tildenparkcapital.com&submit=submit
+a2ac5: ok.  Will I receive an email letting me know?
+b4279: One moment Yes you will get an email notification 
+a2ac5: great.  thanks.
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: Hello. How may I help you? I'd like to register our Supermicro systems on our account, but I don't have any documentation of our Customer ID. Can you help me with that?
+b4279: Hi Chris Did you purchase these systems directly from Supermicro Sales team or from resellers?
+a2ac5: Through a reseller, Dynamic IT I have the reseller's quote/invoice
+b4279: Unfortunately, only direct Supermicro customers can register their systems currently. Not sure when or if there is an ETA for including reseller ones.  You'll have to check with your reseller for any warranty information 
+a2ac5: Got it. Thanks for the clarification!
+b4279: You're welcome! Can I help you with anything else? 
+a2ac5: That's all for today. Thanks
+b4279: Sounds good. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Chris Zappe left the following comment: Quick and knowledgeable answer to my question. Thank you! Hello. How may I help you?
+b4279: Hi David
+a2ac5: I have a failing power supply that I want to replace.  Can you suggest an alternative.
+b4279: Sure, let me check for you.  The alternative power supply for the PWS-351-1H is  PWS-350-1H 
+https://store.supermicro.com/350w-1u-pws-350-1h.html?queryID=6d0623cdfde75c22d5ed115329206ef0&objectID=697&indexName=supermicro_default_products Is there anything else I may help you with today? 
+a2ac5: It says out of stock.  Are you getting more.
+b4279: It's running low in stock currently, but we might can get more. May I know where are you located please? The reason I asked that our eStore currently only sells and ships within the US. We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi David!
+a2ac5: How long would it take to get a PWS-351-1H Power supply shipped to Japan?  It also says the product is currently out of stock.
+b4279: I'm sorry, but unfortunately, our Supermicro eStore currently only ships within the United States. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: ok.. thank you
+b4279: No problem Is there anything else I may help you with today?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email   
+a2ac5: Hello. How may I help you? I never received an email stating that my order has been shipped. Can you check?
+b4279: Please give me a moment while I check for you.  https://store.supermicro.com/trackorder/?order_id=1000023392&email_address=jbreitman@tildenparkcapital.com&submit=submit Tracking from FedExhttps://www.fedex.com/fedextrack/?trknbr=540500942080&trkqual=12023~540500942080~FDEG Tracking from FedEx  https://www.fedex.com/fedextrack/?trknbr=540500942080&trkqual=12023~540500942080~FDEG
+a2ac5: great thanks
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: That is all.
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? My server chassis is missing the PCIe expansion card retaining clip. Is it possible to purchase a replacement?
+b4279: Do you have a part number?
+a2ac5: I believe it's MCP-290-51001-0N, but I'm not entirely certain.
+b4279:   What is the chassis complete part number please ?
+a2ac5: 5018D-FN4T
+610aa: Please give me a moment while I check for you.
+b4279:  PCIe expansion card retaining clip doesn't have a part number but I think you can check with RMA to see if they sell that part RMA department email address: rma@supermicro.com
+RMA department phone #:  1-408-503-8000 option 3
+ 
+a2ac5: It's listed as P/N MCP-290-51001-0N on the website https://www.supermicro.com/en/products/chassis/1U/510/SC510T-203B Sorry- wrong link! https://www.supermicro.com/en/products/chassis/Mini-1U/505/SC505-203B
+b4279: Got it ! I'm sorry, but unfortunately, we do not carry MCP-290-51001-0N on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: ok, thanks!
+b4279: or you can check with RMA  RMA department email address: rma@supermicro.com
+RMA department phone #: 1-408-503-8000 option 3 You're welcome.  Can I help you with anything else? 
+a2ac5: Nope, that's all
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Have a great day
+b4279: Thanks!
+a2ac5: Hello. How may I help you?
+b4279: Hi Gijs!
+a2ac5: I am wondering where I can purchase aan OOB licence. I am in the Netherlands, Europe, but in my SuperMicro account I can only enter a US address. Consequently my credit card payment does not follow through.
+b4279: I see We do carry OOB but we only can sell to US customers since our system rejects non-US credit card payments Do you have an US credit card ( tied to a US billing address)?
+a2ac5: Do you happen to know a non US SuperMicro web-site where it can be done?
+b4279: We don't have that unfortunately. You can always purchase OOB through resellers though.   Please check with our resellers and distributors for availability.
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: Ok. I will try that. Thanks for your help!
+b4279: You're welcome.  Can I help you with anything else?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email   
+a2ac5: Hello. How may I help you? Hi Kyle. I wanted to know if the store sells the motherboard 'X11SCL-LN4F'
+b4279: Hi John I'm sorry, but unfortunately, we do not carry any motherboards on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: Ok, thank you.
+b4279: You can also try checking with our Sales team at Sales-USA@supermicro.com if needed You're welcome Can I help you with anything else? 
+a2ac5: Thanks it. Take care
+b4279: Thanks! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: John Delaney left the following comment: quick and very helpful Hello. How may I help you? I have a x9scm-f Rev 1.1 motherboard.   The chipset fan is making a noise.  I'm afraid it will stop and overheat.  Where can I purchase a new fan?
+b4279: Hi Stephen! Would you happen to know your chassis SKU? Our fans are generally recommended based off chassis compatibility 
+a2ac5: Where would that be located
+b4279: You can refer to our serial number guide here to locate a serial number:
+
+https://www.supermicro.com/en/support/rma/sn
+a2ac5: OK i'll go look hang on
+b4279: OK, thank you Stephen
+a2ac5: Ok I'm back the serial number is  zm19u37579
+b4279: Thanks Stephen. Give me one moment to look this number up
+a2ac5: there is a long number under a barcode if you need it
+b4279: It looks like this is the serial number for the motherboard and I couldn't find a chassis associated to it. Is this motherboard housed in a supermicro chassis?
+a2ac5: there is also a IPMI number I'm not sure, that is what the sticker said stuck on the motherboard
+b4279: OK, lets try something else. Does your chassis look like any one of these 3 below?
+
+https://www.supermicro.com/en/products/chassis/1U/113/SC113MTQ-330CB
+
+https://www.supermicro.com/en/products/chassis/1U/512/SC512F-350B
+
+https://www.supermicro.com/en/products/chassis/1U/813/SC813MTQ-350CB
+a2ac5: No   It is a separate motherboard we purchased from newegg and we installed it into a tower.
+b4279: Ahh OK
+a2ac5: The mother board is stamped  "Super X9SCM-F"
+b4279: Right, but even knowing the motherboard model, we wouldn't want to recommend a fan that wouldn't fit into your chassis. That's why we generally need to know the chassis make/model as well
+a2ac5: What do you mean by chassis
+b4279: The chipset fan you're looking for, is it for an active heatsink? or just a standard 40mm chassis fan the tower/barebone enclosure
+a2ac5: It clipped directly onto the mother chipset I think it was like that when be bought the motherboard It has a little bar that fits across it and holds it down I notice online that the revision 1.2 does not have a fan. It just has a heatsink
+b4279: Yea, I think that might be why I'm having trouble locating a part number for this fan
+a2ac5: It might be too old
+b4279: It might be best for you to check with our technical support team. They might be able to help you out.
+
+Tech Support: Support@Supermicro.com
+ 1-408-503-8000
+ I apologize for the inconvenience!
+a2ac5: OK i'll give them a call thank you
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: no thanks
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Clair!
+a2ac5: Hello, we are looking to buy some SYS-E100-9W-H from the store. The spec sheet says the Mic-In & Line-Out are optional, and we need them. Do the SYS-E100-9W-H in the store include them?
+b4279: Please give me a moment while I check for you. 
+a2ac5: Thanks!
+b4279: Can I get back to you on this ?
+a2ac5: Yup do you think my tomorrow?
+b4279: I want to check what parts you need for Mic-In & Line-Out  I am hoping I can get an answer by today
+a2ac5: Perfect, thanks so much
+b4279: Is networkreg@clairglobal.com the best email to reach you ?
+a2ac5: Can you send it to slowe@clairglobal.com
+b4279: How many SYS-E100-9W-H are you looking to purchase? Sure thing
+a2ac5: 10
+b4279: Sounds good. Let me check internally and get back to you as soon as I can Can I help you with anything else? 
+a2ac5: Nope, thanks
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hello, can you please transfer me to Jim?
+b4279: Hi Lea Jim is away for lunch right now. Can I help you with your request or did you want to check back later when he is back?
+a2ac5: maybe you can... one of my customers is looking to buy a system SYS-740GP-TNRT GPU SKU number 10021520 plus a MB X12DPG-QT6. Is it available?
+b4279: We don't carry this particular workstation as the closest one we have is SYS-740A-T, which has X12DAI-N6 installed.  https://store.supermicro.com/sys-740a-t.html
+a2ac5: What is the price of that one?
+b4279: At lowest cost, it would be around $3,900 before tax. Shipping would be free with standard ground shipping, otherwise, anything faster would also cost extra
+a2ac5: I don't pay tax because it is for resale
+b4279: If you have tax exempt, we'd refund you the tax you paid on it as well in that case
+a2ac5: Do you have it in stock for immediate delivery?
+b4279: We do have it in stock, ready to be configured, and ship out 1-2 business days after it has been built. 
+a2ac5: what is mandatory to have in it, just the minimum?
+b4279: So if you purchase it, it will take 1-2 business days to assembly build, then it would ship out.  let me check That's the minimum, 2 CPUs, 2 memory, 1 2TB HDD We also have this new AMD workstation available as well: https://store.supermicro.com/supermicro-threadripper-performance-workstation-as-5014a-tt.html Starting today
+a2ac5: OK, let me tell my customer and see if it fits his needs, I will get back to you guys. Thanks Kyle!! Happy New Year!
+b4279: Sounds great! You're very welcome! Happy New Year as well!  I'll let Jim know as well, have a great day!
+a2ac5: You too! Lea left the following comment: Always great customer service! Hello. How may I help you?
+b4279: Hi Hal
+a2ac5: Can I purchase a pedestal by itself
+b4279: Can you explain a little bit for pedestal please?
+a2ac5: in the past I purchased a CSE-743TQ-865B-SQ Pedestal Server Case, I don't see where I can purchase a case without building a server
+b4279: Oh. You mean the chassis
+a2ac5: yes
+b4279: I'm sorry, but unfortunately, we do not carry chassis on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: They are hard to come by even through distributors like NewEgg
+b4279: Isee. You also can contact with our sale team Sales-USA@supermicro.com for chassis
+a2ac5: Ok thanks goodbye Hello. How may I help you?
+b4279: Hi Thibault ! 
+a2ac5: Hi there, I am trying to order 2 of these MCP-320-81302-0B but the website says that only 1 available but I need to contact support as you might have enough in inventory
+b4279: I see. I can request more and email you when the stock is ready Is ravera.thibault@gmail.com the best email to reach you ?
+a2ac5: Yeah
+b4279: Thanks! I will email you when they are ready Can I help you with anything else? 
+a2ac5: No that's all Thanks!
+b4279: It was nice talking to you. Have a great day, goodbye!   You're welcome. 
+a2ac5: Hello. How may I help you?
+b4279: Hi Toni
+a2ac5: Hi... im in canada and want to get some parts.. when buying from this website do the parts come from US or Canada?
+b4279: The part will come from the US. But unfortunately, our Supermicro eStore currently only ships within the United States. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: ok ..
+b4279: I'm sorry for the inconvenience
+a2ac5: also can  you check canadian stock availability on your end?
+b4279: I'm sorry, but we don't have any information of our resellers stock. Please check with our resellers in Canada for availability.
+a2ac5: ok Hello. How may I help you?
+b4279: Hi Cory !
+a2ac5: Hello.  I'd like to order the SuperCap/CasheVault for a server I just purchased.  I cannot find it listed anywhere on the store. The MB is X10DRH-CT
+b4279: I'm sorry, but unfortunately, we do not carry CasheVault on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: OK.. Thank you.
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: Nope.  I'm good.  Have a great day!
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Steve
+a2ac5: Hello I just had a question about the rail pieces. Some of the rails are missing that little silver quickconnect bracket at either end of the rails. Is there somewhere I can buy just those little silver pieces?
+b4279: May I know the part number of your chassis please?
+a2ac5: you want the sys-1028gr-tr
+b4279: yes, the system part number also good. Thank you for the information. Please give me a moment while I check for you.  Your rail set is the MCP-290-00054-0N. Do you have all the component shows as picture?
+a2ac5: okay so those silver pieces at the end of the bracket (that have two square notches) that initially secure the rail to the 42U rack. I'm missing those. Is there a way to get just those pieces
+b4279: I see. Please give me a moment while I check for you.  Unfortunately, we don't have the part number for those square notches. You can try contact the RMA department to see if they sell that part 
+RMA department email address: rma@supermicro.com
+RMA department phone #:  1-408-503-8000 option 3
+ 
+a2ac5: okay it was worth a shot. Thanks much I appreciate you.
+b4279: You're welcome.  Is there anything else I may help you with today? 
+a2ac5: not today
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Looking for a compatible Hot-Swap 3.5" Hard Drive Tray
+b4279: Hi Bob! For the SSG-520P-ACTR12H?
+a2ac5: yes
+b4279: Please give me a moment while I check for you.  You can use MCP-220-00075-0B
+
+https://store.supermicro.com/mcp-220-00075-0b.html
+a2ac5: great thank you
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: just have a nice weekend!!
+b4279: Thanks, you too Bob!
+a2ac5: Bob left the following comment: Jim was able to answer my question quickly Hello. How may I help you?
+b4279: Hi Lyndell!
+a2ac5: Hello I'm trying to get details on the add on network cards for the SYS-5019P-M system In the configurator, it simply says 10G 2xRJ45 Ethernet Adapter I'd like to know the specifics of that adapter, and if that doesn't fit the needs, how would I determine a compatable SuperMicro adapter to go with that server
+b4279: What do you need as a network card?
+a2ac5: I'm looking for the capabilities of the card, what controller it's using.  I'm interested in cards that support SR-IOV, among other capabilities
+b4279: It uses Intel X550-AT2 Here is the link to the card https://www.supermicro.com/wdl/Networking_Drivers/CDR-NIC_1.62_for_Add-on_NIC_Cards/MANUALS/datasheet-AOC-STGS-i2T-i1T.pdf
+a2ac5: Ok, so we are saying the add-on card to the SYS-5019P-M SuperServer is the AOC-STGS-i2T/i1T correct?
+b4279: It is AOC-STGS-i2T, yes
+a2ac5: If so I believe that will meet the needs, I'll need to do some further confirmation but at least I have something to research now Perfect, that's all I needed to know
+b4279: Sounds good
+a2ac5: Thank you for your support
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Thanks, you too Lyndell Hockersmith left the following comment: Knowledgeable and fast. Hello. How may I help you? Are the fans hot-swapable on this model
+b4279: Hi James Let me check The middle fans are hot-swappable
+a2ac5: it is fan A
+b4279: https://store.supermicro.com/80mm-fan-0158l4.html Yeah any of the 3 can be hot-swapped
+a2ac5: They do look like from the picture. I have not been on site yet
+b4279: Is there a failed one?
+a2ac5: Fan A
+b4279: Oh ok understood You should be fine hot-swapping that one then with the model I linked
+a2ac5: OK thank you!
+b4279: You're welcome! Can I help you with anything else? 
+a2ac5: no I am good and happy new year
+b4279: Thank you! Happy New Year as well! It was nice talking to you. Have a great day and weekend, goodbye! 
+a2ac5: Bye Hello. How may I help you? Looking to see what SuperMicro has for 1u servers with NVMe storage.
+b4279: Hi Stanley! These servers would most likely be your best option:
+
+https://store.supermicro.com/ultra-server-1u-sys-1029u-tn10rt.html
+
+https://store.supermicro.com/ultra-server-1u-sys-1029u-tr4.html
+
+https://store.supermicro.com/sys-120u-tnr.html I believe the only model we have readily in stock is the 1029U-TR4 There's this one as well.
+
+https://store.supermicro.com/sys-120c-tn10r.html It's a good mix of price + performance. The Ultra servers I provided above are pricier compared to the 120C-TN10R
+a2ac5: looking at what you sent Under storage for the sys-1029u-tr4, it has storage 1TB M.2 XG6 NVMe Solid State Drive  is this a true NVMe and just in the m.2 format?
+b4279: Please give me a moment while I check for you.  Please bear with me for a few more minutes while I check for you.  Yes, it's an NVMe in M.2 format Although the 1029U-TR4 isn't really optimized for NVMe now that I'm reviewing the configuration. You would only be able to add up to 3 of those drives The 120C-TN10R is one of our newer gen servers and it's optimized for up to 8 NVMe drives
+a2ac5: great fun with the configurator.  all the NVMe drives on the 120c-tn10r are out of stock.  hard to get prices that way.
+b4279: Let me check on that real quick. Which drive were you trying to select?
+a2ac5: I tried all of them under NVMe  there were ones under m.2 that were available
+b4279: Ahh OK. I think I see the issue. The required cable for these drives is out of stock, but we've just updated the inventory internally. It might take a few minutes before that gets reflected on our website though If there's a specific drive you're interested in, I can double check on the inventory for that while we wait for our system to update?
+a2ac5: lets just check for the 1.92TB 2.5" CM6 NVMe PCIe 4.0 Solid State Drive (1 x DWPD).  In the 960GB 2.5" CD6-R NVMe PCIe 4.0 Solid State Drive (1 DWPD) what does the -R mean?
+b4279: OK, I'll check the 1.92 TB CM6.
+
+For the -R, I believe that's something designated by the manufacturer (Kioxia), so I'm actually not sure, but speedwise the CM6 is much faster than CD6. We have enough in stock for the 1.92TB CM6 
+a2ac5: I missed the CD6 vs CM6  I thought they were both CM6 and that the -R was read optimized.
+b4279: Ahh OK Could you do a hard refresh of your browser (hold CTRL+F5)? You should be able to select that drive now.
+a2ac5: What is the price of the 1.92Nvme drives?
+b4279: Looks to be $535 per drive
+a2ac5: That worked.  Thank you.
+b4279: No problem!
+a2ac5: What is the Rackmount Keyboard and Mouse Combo and I assume all servers come with rackmounts
+b4279: It's just a keyboard and mouse combo that's included with our servers. Unfortunately, the mouse isn't pictured, but that's what the keyboard would look like Actually, I stand correct. The mouse is built in as a touchpad.
+a2ac5: looks like a trackpad at the bottom
+b4279: My mistake You should be able to configure this system now and the pricing reflected should be accurate If you configure something that you like, I should note that we can build and ship this system within 2-5 business days.
+a2ac5: Sounds fine.  Still trying to find out requirements from my customer on drive space needed.    Thank you for the help.
+b4279: No problem at all! Can I help you with anything else? 
+a2ac5: Can I have the cart sent to me or saved somehow?
+b4279: Yea, access your cart again in the top right and on that screen, there's a Save Quote option that will save it as a PDF
+a2ac5: Thanks again.
+b4279: No problem! https://store.supermicro.com/checkout/cart/ Is there anything else I may help you with today? 
+a2ac5: Nothing else now.  Comparing vendors is like comparing apples to oranges.  Can be difficult.
+b4279: I know exactly what that feels like 😄  Anyways, it was nice talking to you. Have a great day, goodbye! 
+a2ac5: You have a good day also.  Goodbye. Stanley Weilnau left the following comment: The advisor was very helpful. Hello. How may I help you?
+b4279: Hi Stephen! 
+a2ac5: I had a few servers in my cart and it seems that some of the parts are out of stock.
+b4279: May I know what parts are those? Which servers are those also please?
+a2ac5: SYS-2029U-TN24R4T It doesn't tell me which components are out of stock for my desired conf configuration
+b4279: How many SYS-2029U-TN24R4T are you looking for ?
+a2ac5: 1
+b4279: Can you screen shot the message?
+a2ac5: and 2 SYS-6019U-TR4 yeah, one sec
+b4279: Please give me a moment while I check for you. 
+a2ac5: thank you
+b4279: Was it a pre-config link ?
+a2ac5: it was a build I created for both
+b4279: When I tried to add 16 GB memory following your config, the 16 GB doesn't show on the list.  https://store.supermicro.com/ultra-server-1u-sys-6019u-tr4.html?queryID=184e2d240397d2ce438b85ac587f3a01&objectID=2634&indexName=supermicro_default_products
+a2ac5: It looks like the 16GB of ram isn't available anymore along with the 3.2TB NVMe drives
+b4279: Yeah, we might have had changed some options under memory Do you want to stick to your configuration ? I can see if I can make the pre-config links for you in this case
+a2ac5: I would prefer my configs, but if you can't match them 100%, I would prefer something comparable for the same price, ie 12x16GB RAM 192GB total, or 24x8GB RAM for 192GB total
+b4279: Got it ! So 2 pcs SYS-6019U-TR4 and 1 pc SYS-2029U-TN24R4T. Correct?
+a2ac5: switching to 8GB sticks kinda screws me for the future upgrades though
+b4279: Yeah I get what you mean
+a2ac5: yes
+b4279: Let me work on the pre-config following your preferred config and go from there
+a2ac5: Thank you
+b4279: Can I email you via slewis@bitdefender.com?
+a2ac5: yes
+b4279: Thanks! I will email you as soon as I can Can I help you with anything else? 
+a2ac5: Do you have pricing info for the onsite service stuff?
+b4279: No, unfortunately eStore doesn't have onsite service available and we wouldn't know the pricing either  
+a2ac5: Ok, that's fine. I sent an email asking for more info from them and never heard back.
+b4279: Who did you email ?
+a2ac5: onsiteservice@supermicro.com
+b4279: I see. I can email them as well. Hope that will help.
+a2ac5: Thank you
+b4279: You're welcome.  Is there anything else I may help you with today? 
+a2ac5: Nope, that's it. Thank you.
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Is it possible to get a replacement bracket for the 2U cable management arm that connects to a 836 chassis? We have the arm and the chassis side bracket for a different chassis.
+b4279: Hi Zack So like one of the brackets included in our cable arm management?
+a2ac5: Yeah, I think the original installer threw it away, and we're reusing the arm after upgrading a server.
+b4279: Oh I see, that's unfortunate.  Unfortunately, we only sell as a complete cable management kit. You may have to check with our RMA team at rma@supermicro.com if they have any spare ones that can sell or provide. 
+
+Otherwise, you may have to purchase the whole kit again. 
+a2ac5: I'll keep looking around for it and if I don't find it soon I'll reach out to the RMA team. Thank you
+b4279: Ok sounds good. Let me check for an actual part for the brackets just in case Was it for MCP-290-00073-0N? that's the cable arm you were looking at?
+a2ac5: Yeah
+b4279: Ok give me a moment It doesn't look like there are any separate parts for the components. Sorry about that part# I meant
+a2ac5: Thanks for checking!
+b4279: You're welcome Can I help you with anything else? 
+a2ac5: Nope, that should be it.
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: You too! Zack Zieske left the following comment: Kyle was very helpful, even if what I needed wasn't available. Hello. How may I help you?
+b4279: Hi Gabriel! 
+a2ac5: Hi there! I ordered a workstation with overnight shipping and it hasn't showed up.  I called Fedex about it and they said it would be delivered tomorrow.  With the delayed status, they did not get info on why it was delayed and I had to call them to resolved it (I originally thought it may have been weather/snow). I asked them if I could get a refund since it will have been 5 days before I received it, and they said I had to contact you about it instead.
+b4279: What is the order number please ?
+a2ac5: just a moment Order #1000023384 Shipment #1000018038
+b4279: I am sorry to hear that FedEx has not delivered the package. We will request for a refund in this case.  Can I update with your via email after checking with FedEx ? Is contact@gabrielhatcher.org the best email to reach you?
+a2ac5: Of course! And yep, that's the best one
+b4279: Thanks! I will email you regarding this shipping delay and go from there. I am sorry for the inconvenience !  Can I help you with anything else? 
+a2ac5: Thank you for the help! I know this is a FedEx problem.  I don't know what they would have done with it if I hadn't called them, but they didn't send me any info like "Please contact us" or the like.
+
+Thank you for helping!  I don't need help with anything else
+b4279: You're welcome.  Hope you will get the package tomorrow !  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Thank you!  Have a great day!
+b4279: Thanks!
+a2ac5: Hello. How may I help you?
+b4279: Hi Meghan!
+a2ac5: Hi, I have excess inventory of SNK-P0043P.  Do you buy excess inventory?
+b4279: I am sorry but we don't purchase inventory
+a2ac5: ok thank you
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: Hello. How may I help you? I am looking for the MCP-290-00058-0N rail kits and need to know if you have any available?
+b4279: Hi Jack
+a2ac5: I need 4-6 sets Hello Kyle
+b4279: We should have it, but currently have 3 available. Let me check if we can get more https://store.supermicro.com/2u-5u-rail-kit-mcp-290-00058-0n.html
+a2ac5: That's the one
+b4279: Did you want 6 pcs?
+a2ac5: If possible, I will take the 3 you currently have to start
+b4279: Ok sounds good. Did you still want me to transfer 3 more and email you once they are available?
+a2ac5: Yes please
+b4279: Ok sounds good, will do. May be several hours till they are ready.  Can I help you with anything else? 
+a2ac5: No, you have been a big help.  I will add them to my cart and complete the order for the 3 available
+b4279: Sounds great!  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: You too Jack Palmer left the following comment: Great service from Kyle Hello. How may I help you?
+b4279: Hi John
+a2ac5: hello. are you able to overnight RAM MEM-DR432LC-ER32
+b4279: Please give me a moment while I check for you.  Yes, the order should be shipped by the end of the day if you choose overnight shipping method it will delivered by tomorrow 
+a2ac5: great. Thank you.
+b4279: You're welcome.  Is there anything else I may help you with today? 
+a2ac5: not today. Thanks
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hello Jim,  Just talked to Kyle and he said you actually had 3 of the MCP-290-00058-0N oil sets in stock, he was going to contact me when the others I need are in stock.  The site will not let me add the 3 stating you have 0 stock.  What should I do?
+b4279: Hi Jack! Please give me a moment while I check for you.  Can you try adding 3 again? You might have to refresh the page
+a2ac5: Will do Hello. How may I help you?
+b4279: Hi Ricardo!
+a2ac5: 
+Hi good morning
+b4279: Are you looking to purchase X10SRi-F?
+a2ac5: yes.
+b4279: I'm sorry, but unfortunately, we do not carry motherboard on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: Okay, and some supermicro server that seems to be performing
+b4279: Sorry can you explain a little what you meant?
+a2ac5: ok your company sells complete servers or only pieces
+b4279: Are you talking about selling parts as well as the servers?
+a2ac5: my english is not very good, they speak spanish
+b4279: Our eStore sells parts as well as the servers May I know where you are located?
+a2ac5: Honduras
+b4279: I'm sorry, but unfortunately, our Supermicro eStore currently only ships within the United States. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy  Can I help you with anything else?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Jason
+a2ac5: My order says Pending...but I got a call from my Data Center saying they received a package for you. Order # 1000023313 not for you....from you
+b4279: Please give me a moment while I check for you. 
+a2ac5: Okay
+b4279: The order was shipped out on 12/31 I'm sorry that our system did not update
+a2ac5: Can you please provide a tracking number?
+b4279: Can I get back with you via email for the tracking number? is the level3@lightspeedvoice.com best email to contact with you?
+a2ac5: Yes it is, and thanks.  My data center need the tracking number for safe storage. :)
+b4279: Thank you for confirming. I will get back via email for the tracking number as soon as I can.
+a2ac5: TY
+b4279: Is there anything else I may help you with today? 
+a2ac5: No, thanks Liz!
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? I am inquiring about our tax exempt status.
+b4279: Hi Sarah!
+a2ac5: We sent the paperwork over but I am still showing tax on our invoices.
+b4279: Please give me a moment while I check for you.  Can you confirm when you sent the tax exempt certificate to us?  I'm trying to look for the email, but I'm not seeing anything from the past week
+a2ac5: December 21st
+b4279: Ah OK, was it from purchasing@ipconfigure.com?
+a2ac5: it should have come from accounting@ipconfigure.com
+b4279: It doesn't look like we received one from account@ipconfigure.com, only purchasing@ipconfigure.com.
+
+While I can confirm we did receive the tax exempt certificate, order numbers weren't provided on the email. Joe responded back to that email requesting the order numbers for the tax exempt request, but we never got a reply back.  Would you be able to check internally to have the sender respond back with the order numbers?
+a2ac5: I will take care of that. How far back can we request the adjustment for?
+b4279: I believe it's for orders within 30 days. 
+a2ac5: Thanks so much
+b4279: No problem Sarah! Is there anything else I may help you with today?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? I am looking for a power supply for this model chassis and I am having difficulty finding it via the chassis parts page.  Can you please let me know the PN of the power supply?
+b4279: Hi Chris Sure let me check for you
+a2ac5: Thank you, Kyle!
+b4279: PWS-504P-1R looks to be the power supply, not sure why they don't list it.  How many were you looking for? https://store.supermicro.com/500w-1u-pws-504p-1r.html It's currently out of stock, but I may be able to transfer 1 from our inventory, which could take 3-4 hours.  The newer version PWS-504P-1R2 can also be used, but you would need to replace both of the PWS-503P-1R since PWS-504P-1R2 is the newer version.  We have that one in stock https://store.supermicro.com/500w-1u-pws-504p-1r2.html
+a2ac5: Perfect!  Thankyou for all the info!  I should be good to go with this info.  Thank you, Kyle!
+b4279: Great and you're welcome!  So no need to transfer for now?
+a2ac5: not as of now but thankyou!
+b4279: Sounds good. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Chris Morales left the following comment: Great service! Hello. How may I help you?
+b4279: HI Joseph
+a2ac5: Need to check the status of an order placed on Satureday Order # 1000023442
+b4279: Please give me a moment while I check for you. 
+a2ac5: Thank you Lol, I think you may be the one who responded to my email inquiry That was on a different question/inquiry
+b4279: Oh yes. I am
+a2ac5: 🙂
+b4279: Please give us for a few more minutes while our web development team is checking on this issue.
+a2ac5: No problem
+b4279: Please bear with us for a few more minutes while we check for you. 
+a2ac5: No problem....passing the time reading from another screen
+b4279: I'm sorry. Can I email you back via joseph.freeze@charleswgreeninc.com? We will need to check internally for this issue and will take some hours.
+a2ac5: ok, not a problem
+b4279: I'm so sorry the this inconvenience. Is there anything else I may help you with today? 
+a2ac5: no, just that for now....thanks
+b4279: You're welcome. I will get back to you as soon as I can
+a2ac5: ok. have a great day
+b4279: It was nice talking to you. Have a great day, goodbye!  Thank you!
+a2ac5: Hello. How may I help you?
+b4279: Hi Victor! 
+a2ac5: I am looking to place an order, but I am getting this message in error.  Address is correct and has been verified. Invalid address
+b4279: Can you please provide the address ?
+a2ac5: 475 Portola Plaza, Knudsen Hall, Room 1-129
+Los Angeles, CA US 90095
+b4279: Is it shipping address or billing address?
+a2ac5: Shipping
+b4279: ok Please give me a moment while I check for you. 
+a2ac5: Thank you
+b4279: Google map has difficulty to find the exact address too
+a2ac5: Interesting Maybe if you remove the Knudson Hall, 1-129
+b4279: Will this address work for you ? 475 Portola Plaza, Room 1-129
+Los Angeles, CA US 90095
+a2ac5: Yes
+b4279: One moment Do you happen to know the 9-digit zip code?
+a2ac5: I don't
+b4279: I see. Please give me a moment while I check for you.  We have whitelisted the address for you Please enter the address exactly like this : 475 Portola Plaza, Room 1-129
+Los Angeles, CA US 90095-0001
+a2ac5: Will do It went through Thank yo.
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: No, that's all.  Thank you very much for your assistance.
+b4279:  You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hi Kyle, I was just in chat with Joe.
+b4279: Hi Victor
+a2ac5: There was an an issue with my shipping address.
+b4279: Let me check on the previous chat
+a2ac5: Now your system will not recognize my billing address.
+b4279: Oh What is the address in question?
+a2ac5: 475 Portola Plaza
+Los Angeles, CA US 90095-0001 That is the billing address But it is coming back as invalid in your system.
+b4279: Oh ok, its similar to the shipping one without the rooms
+a2ac5: Yes
+b4279: Let me whitelist for you Give me a few minutes
+a2ac5: Thank you
+b4279: Ok its been whitelisted, you may have to refresh your page 
+a2ac5: It still saying address is invalid Okay, it went through
+b4279: Let me double check again. You may have to log out and log back in. Hard refresh (ctrl + F5).  Oh Both addresses?
+a2ac5: Yes, I was able to proceed. I had to re-input the zip code.
+b4279: Ok great! Hopefully there isn't more issues Sorry about the address verification being unforgiving at times Can I help you with anything else? 
+a2ac5: No, thank you.  I just received the confirmation of the order.
+b4279: You're welcome, I see the order as well! 
+a2ac5: Appreciate it. Thank you, have a great day.
+b4279: Np! It was nice talking to you. Have a great day, goodbye! Happy New Year
+a2ac5: Hello. How may I help you?
+b4279: Hi Lea!
+a2ac5: Hi Liz, is Jim available?
+b4279: Yes, I can transfer the chat for Jim.
+a2ac5: thanks! Liz transferred the chat to Jim
+b4279: Hi Lea!
+a2ac5: Hi Jim! Happy New Year!
+b4279: Happy New Year to you as well 🙂  What can I do for you?
+a2ac5: I have another RFQ, let's see if you can help me out
+b4279: Sounds good, let's hope so
+a2ac5: SSG-6049P-E1CR36H
+b4279: Ahh darn. We only have the 45 or 60 bay versions available on our eStore. Either SSG-6049P-E1CR45H or SSG-6049P-E1CR60H.
+
+Would your customer want either of these as alternatives instead?
+a2ac5: It depends on the price give me both
+b4279: Let me know what components you'll need and I can provide quotes for both. The 45 bay would be the cheaper option though
+a2ac5: Can you sell it like that or he has to purchase CPU, SSD and memory?
+b4279: Unforunately, your customer will need to purchase it as a complete system with CPU, memory, and drives. Barebones aren't sold on our eStore 😞 
+a2ac5: where can I get just the barebone?
+b4279: For just the barebones, you can try checking with our Sales team or our resellers:
+
+Sales dept: Sales-USA@supermicro.com
+Tel: +1-408-503-8000
+
+https://www.supermicro.com/en/wheretobuy
+a2ac5: OK, let me ask him what he wants on that barebone and I will get back to you. Thanks!
+b4279: Sounds good, Lea! Hope to hear back from you. Is there anything else I may help you with today? 
+a2ac5: no thanks again!
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: likewise! Lea left the following comment: Excellent! Hello. How may I help you?
+b4279: Hi Jason
+a2ac5: Hi again...lol Do you have any information on the power draw of SSG-6049P-E1CR45H-PRE-CONFIG I am running out power at my data center.
+b4279: Oh... that's unfortunately. Please give me a moment while I check for you. 
+a2ac5: Thanks!
+b4279: So the total power for the system is 664.6 W You can divide it by the total number of volts available from your electric outlet to calculate the amperage draw
+a2ac5: Your the best
+b4279: 😄 hope it will help Is there anything else I may help you with today? 
+a2ac5: Nope. have a good day
+b4279: It was nice talking to you. Have a great day, goodbye!  Thank you!
+a2ac5: Hello. How may I help you? looking to buy 1 more of the 	Supermicro 80mm Hot-Swappable Middle Axial Fan (FAN-0104L4)
+b4279: I can make an inventory transfer request for you and email you when it is in stock Is mgadbois2@gmail.com the best email to reach you /. ?
+a2ac5: yes
+b4279: Thanks! I will email you when it is ready Can I help you with anything else? 
+a2ac5: all set. thanks
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? 6
+b4279: Hi Vida
+a2ac5: https://store.supermicro.com/12tb-sas3-hdd-a12t-st12000nm002g.html
+b4279: You can check for volume discount using this link: https://store.supermicro.com/quote#HDD-A12T-ST12000NM002G
+a2ac5: i am looking for the item and its noted request for volume discount, but i was not sure what is considered volume? or how many
+b4279: The agent in charge of that function will get back to you via email within 24 hours. For 6 pcs, you wouldn't get a discount unfortunately. Volume discount would depend on the product being purchased as it varies.
+a2ac5: ok Thanks
+b4279: you're welcome Can I help you with anything else? 
+a2ac5: Nope
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: you as well Hello. How may I help you?
+b4279: Hi Aaron
+a2ac5: how long does it take for BMC order to go through? trying to set up my server and waiting on the order to process i can see i was billed isnt it just a key?
+b4279: Your OOB license key will be available within an hours after purchase, normally. May I know your order number, please?
+a2ac5:  order #1000023463
+b4279: Your OOb key will be available around 2:51 pm since your order placed at 1:51 today Please contact us on Live Chat or    if you don't received it at that time.
+a2ac5: Hello. How may I help you? looking for compatible memory for this MB M12SWA-TF
+b4279: Hi Michael! What capacity/speed were you looking for?
+a2ac5: DDR4 / 3200 . 64 GB
+b4279: Please give me a moment while I check for you.  Here are the 2 64GB DIMMs that are validated for that board:
+
+https://store.supermicro.com/64gb-ddr4-3200-mem-dr464l-sl01-er32.html
+
+https://store.supermicro.com/64gb-ddr4-3200-mem-dr464l-cl02-er32-2447.html
+a2ac5: do you also sell the motherboard mentioned above?
+b4279: I'm sorry, but unfortunately, we do not carry any motherboards on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy 
+a2ac5: ok. that's fine. thanks for the memories
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: that's it!
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? hi kyle
+b4279: Hi Aaron
+a2ac5: i purchased an IPMI key for my new motherboard i am trying to activate it but it does not like the PDF am i doing it wrong?
+b4279: What is your order#? Nvm, I found it For H12SSL-i?
+a2ac5: 7000019004 yes
+b4279: Ok let me check
+a2ac5: when i navigate to license activation, it shows new private key select file am i supposed to upload the PDF?
+b4279: https://store.supermicro.com/software/out-of-band-oob-key-activation-guide I assume you are following this X12 section
+a2ac5: i did not get a text file only a pdf
+b4279: Oh I see https://store.supermicro.com/pub/media/wysiwyg/productspecs/SFT-OOB-LIC/How-to-generate-OOB-keys.pdf Did you generate the key under your account? For X12, if successful, the Product Key would be ready to download under “Generate Key” The key file is the file you need to upload when activating
+a2ac5: did i not need to purchase the OOB key?
+b4279: You would need to purchase the OOB license to generate a OOB key 
+a2ac5: so i generated the text file using my mac address node product key stats shows SFT-OOB-LIC now is that it?
+b4279: Ok In the IPMI GUI?
+a2ac5: 2021-06-02 17:46:13	Redfish	Hailey	192.168.1.59	Node product key SFT-OOB-LIC was activated successfully.	others yeah in the IPMI gui
+b4279: yeah you should be good You needed to generate the key file from your eStore account and upload that in IPMI
+a2ac5: how do i check if there is a firmware update
+b4279: Anything in Firmware management?
+a2ac5: would that go through the gui?
+b4279: Wait, are you taking about the BIOS firmware or IPMI firmware?
+a2ac5: both
+b4279: The latest BIOS firmware would be version 2.3
+a2ac5: i am 2.1
+b4279: Oh ok. You should be able to update remotely now since you activated OOB 
+a2ac5: do i need to download it from supermicro site or can i find new firmware via IPMI
+b4279: Let me double check on finding firmware via IMPI Thanks for waiting. For the IPMI firmware itself, it's under the maintenance tab and firmware update For the BIOS, you will need to download the file from the product page https://www.supermicro.com/en/products/motherboard/H12SSL-i located in "Update your bios"
+ Then in IPMI maintenance, it would be under the BIOS update and you would use the file you got from the motherboard bios page
+a2ac5: ok i will grab them from the site thanks again for your help
+b4279: You're welcome! If you have any troubles with it, let us know Can I help you with anything else? 
+a2ac5: nope should be good thanks again
+b4279: Np! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Aaron Jackson left the following comment: great service Hello. How may I help you? We currently have "-156" of the "Supermicro 8-pin to Two 6+2 Pin 5cm Power GPU Cable (CBL-PWEX-1040) " in stock, but we may have enough inventory to complete your order. Please contact us via "email or live chat" need 70 of these cables but receiving that message when trying to put in m ycart
+b4279: Please give me a moment while I check for you.  I can make an inventory transfer request and email you when the stock is ready Is jameson.p.williams@intel.com the best email to reach you ?
+a2ac5: Yes that is correct
+b4279: thanks! Can I help you with anything else? 
+a2ac5: how long will the transfer take?
+b4279: Within an hour 
+a2ac5: Sounds good, thanks for the help Joe!
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? I would like to know the status of an order I placed yesterday. 1000023458
+b4279: Hi Del Let me check for you Thanks for waiting. It looks like the order was not processed for some reason, I apologize about that. I will ask our internal team to process this order. 
+a2ac5: I would like to receive this by tomorrow and can I please have tracking as soon as possible. thank you
+b4279: Will do! I will get this pushed to be ship today for sure.  you're welcome Can I help you with anything else? 
+a2ac5: that will be all
+b4279: Ok sounds good. Sorry for the inconvenience again. 
+
+It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi John
+a2ac5: I think we talked yesterday. Can you track my order for me please? 1000023458 - NEP/Bexel
+b4279: Yes, we do. Please give me a moment while I check for you.  It looks like the order was not processed for some reason, I apologize about that. I will ask our internal team to process this order. Can I contact you back via email jdesilva@bexel.com?
+a2ac5: Thats not good. anyway to expedite this? we are in a pinch.
+b4279: I'm so sorry the this inconvenience. We will try our best to ship it out by today. I will check internally and email you back as soon as possible. is the jdesilva@bexel.com best email to reach you?
+a2ac5: thanks. yes.
+b4279: Thank you for confirming! Is there anything else I may help you with today?  We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email   
+a2ac5: not today. I just really need this to ship today to arrive tomorrow
+b4279: Yes, I will try our best to ship it out today. I'm sorry for this inconvenience.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: thanks
+b4279: You're welcome. 
+a2ac5: Hello. How may I help you? Hi
+b4279: Hi Liam!
+a2ac5: Happy new year
+b4279: Happy New Year to you as well!
+a2ac5: we want to add rear flex bay for SSG-6028R-E1CR12H could you advise what parts we need to buy want too add two 2.5 inch hhd to the rear space
+b4279: Please give me a moment while I check for you. 
+a2ac5: sure thanks
+b4279: It looks like the drive kit MCP-220-82616-0N should have everything you need.
+a2ac5: let me check
+b4279: OK. Unfortunately, it's not sold on our eStore so you'll have to check with our resellers for availability:
+
+https://www.supermicro.com/en/wheretobuy
+a2ac5: is MCP-220-00044-0N necessary to make it fixed?
+b4279: I don't believe so. MCP-220-00044-0N is a standalone bracket, but you can double check with our technical support team just to be sure:
+
+Tech Support: Support@Supermicro.com
+Tel: +1-408-503-8000
+
+a2ac5: sure, thanks a lot
+b4279: No problem, Liam Is there anything else I may help you with today? 
+a2ac5: that's all. have a nice day
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: bye Hello. How may I help you?
+b4279: Hi Joseph
+a2ac5: do you have any of the FAN-0104L4 in stock?
+b4279: How many are you looking to purchase?
+a2ac5: 3
+b4279: Please give me a moment while I check for you.  Yes, we should have some left in stock. Let me see if we can update the inventory for you right now. If not, it will probably take an hour or two before you can add them to your cart.
+a2ac5: ok thanks
+b4279: No problem OK, the inventory should be updated. Please refresh your page and try adding it to your cart again
+a2ac5: yep i see them thanks
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: nope appreciate it
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Kyle! 
+a2ac5: Hello I am trying to locate 3 x RC-22-01-001
+b4279:  RC-22-01-001 is not a valid Supermicro part number unfortunately May I know what you are looking for ?
+a2ac5: sorry about that we need 3 x Supermicro 1U Rail Kit (CSE-PT52L)
+b4279: I see I can make an inventory transfer request for you and email you when they are ready
+a2ac5: thank you
+b4279: May I know if kandreoni@iomaxis.com is the best email to reach you ?
+a2ac5: yes please
+b4279: Thanks! I will email you then Can I help you with anything else? 
+a2ac5: that is all thank you! Hello. How may I help you? Hello, I just did the chat and learned there is only one of these items left Supermicro 1U Rail Kit (CSE-PT52L) are there other items comparable?
+b4279: Hi Kyle, nice name I believe Joe was transferring more inventory for CSE-PT52L from your previous chat She will email you back once they are available *He 
+a2ac5: Yes that is VERY helpful but I feel I should have asked if there is anything LIKE that or similar. does that make sense?
+b4279: No there is no other compatible one for CSE-PT52L 
+a2ac5: okay thank you
+b4279: The other rail MCP-290-00056-0N can be used instead of the outer rail that comes with CSE-PT52L, but you will still need the inner rails from CSE-PT52L either way You're welcome Hopefully the inventory transfer will complete in a few hours and we can email you Can I help you with anything else? 
+a2ac5: thats all thank you
+b4279: Np! It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Aldo ! 
+a2ac5: can you help me with this SuperServer 1029TP-DC0R
+b4279: What do you need help with regarding 1029TP-DC0R ?
+a2ac5: yes if you have this product
+b4279: Are you looking to purchase 1029TP-DC0R?
+a2ac5: yes
+b4279: I see
+a2ac5: here is my email
+b4279: I'm sorry, but unfortunately, we do not carry 1029TP-DC0R on our eStore. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy  Can I help you with anything else? 
+a2ac5: Hello. How may I help you?
+b4279: Hi Shane!  We do accept tax-exempt, but it would be applied after the purchase not during the time of purchase.
+
+In order to apply for tax exemption, you would need to provide valid certificate, which you can send to eStore-support@supermicro.com along with your order number.
+
+Your tax-exempt request will be processed after we have verified that the certificate is valid. 
+It usually takes up to 10 business days for the tax amount to return back to your original form of payment.
+  Before submitting a request, please review the tax exempt guide carefully.  Incomplete or incorrect submissions will be rejected.
+https://store.supermicro.com/tax-exemption-guide
+  Can I help you with anything else? 
+a2ac5: got it. thanks
+b4279: You're welcome. 
+a2ac5: Hello. How may I help you?
+b4279: Hi Jeff
+a2ac5: Hi - I need six of the Supermicro 2U-3U Rail Kit (MCP-290-00053-0N), but it says only one is available.  Do you have six in stock?
+b4279: Please give me a moment while I check for you.  It looks like we have some left in stock. I can try to make the inventory transfer for 6pcs of MCP-290-00053-0N. Can I email you back via jkehe@quickpacket.com when the process is done? It would take some hours to complete.
+a2ac5: I need them to ship out today by overnight shipping.  Will that be possible?
+b4279: I couldn't guarantee for sure. It will depend the process. If you can place the other before 3:30pm PST. the order can be shipped out by the end of the day and shipping overnight for you
+a2ac5: ok.  please try to get the inventory moved over ASAP so I can place the order. thank you for your help
+b4279: Yes, I'll try my best. You're welcome. Can I help you with anything else? 
+a2ac5: that's all, I'll be watching for your email.  thanks again
+b4279: no problem. I will email you as soon as the process complete.
+ It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Jennifer!
+a2ac5: I need to see if you have 40 of SNK-P0078AP4 in the warehouse that you can move over for purchase.
+b4279: Please give me a moment while I check for you. 
+a2ac5: Can you please check for me. Thanks
+b4279: It looks like we do. Let me go ahead and initiate the transfer request and follow up with you when it's approved and completed. Is purchasing@ipconfigure.com a good email to reach you at, Jennifer?
+a2ac5: that is correct. Thanks you so much.
+b4279: No problem! The transfer should take several hours so I'll reach out when it's done. Is there anything else I may help you with today? 
+a2ac5: That is all thank you
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hello. How may I help you?
+b4279: Hi Chris
+a2ac5: Hello, I'd like a quote on this memory DIMM. I just started and RMA for one, but I'd like another as a shelf spare. If I can get them in the same package that would save shipping and help out a lot.
+b4279: Can you please fill the Request for Quote form here? https://store.supermicro.com/quote#MEM-DR432L-SL03-ER26 We will email you shortly for the quote. Is there anything else I may help you with today? 
+a2ac5: Submitting the form now. Thanks. Hello. How may I help you?
+b4279: Hi Dustin ! 
+a2ac5: I need one bag of screws - it say your out of stock but to check with you - https://store.supermicro.com/screws-2-5-labels-mcp-410-00006-0n.html
+b4279: Please give me a moment while I check for you.  How many do you need ? Just 1 ? MCP-410-00006-0N https://store.supermicro.com/screws-2-5-labels-mcp-410-00006-0n.html It is ready for you to purchase
+a2ac5: great thanks
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: nope thats it
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: you too Hello. How may I help you? I asked for 40 of SNK-P0078AP4 to be moved to active inventory so I can purchase them but I haven't received the email yet to let me know this has been done and I  just wanted to check on it.
+b4279: I see Please give me a moment while I check for you.  I see the record that Jim started the inventory transfer for you and the transfer has not been completed yet Can he email you when the stock is ready for you ?
+a2ac5: Yes, that would be great. Thanks
+b4279: You're welcome. 
+a2ac5: Do you know how much longer that will take?
+b4279: Hopefully in 4-5 hours 
+a2ac5: Thank you
+b4279: You're welcome.  Can I help you with anything else? 
+a2ac5: Hello. How may I help you?
+b4279: Hi Dustin! 
+a2ac5: It will not accept my address.  I can use the default shipping address but it is wrong. I have tried changing the defualt shipping address but it then changed the default Billing address as well. also It says $10.46 for shipping.  I don;t think this is reasonable for a $7 bag of screws that could be sent in an envelope.  Can you adjust shipping charges?
+b4279: Please give me a moment while I check for you.  What browser do you use please ? Can you do a hard refresh first ? Ctrl +F5?
+a2ac5: firefox on mac refresh doesnt help
+b4279: Can you please enter the address by clicking " + New Address " ?
+a2ac5: tried it does not work
+b4279: One moment
+a2ac5: I will try different browser.  can you adjsy shipping?
+b4279: We have Free Shipping to the Continental US Over $200 (Excluding rail kits and systems) Sorry I won't be able to adjust shipping
+a2ac5: it seems to be working in sfari
+b4279: Sounds good It works on my end as well If you are looking for using a different address as billing, please remember to unclick " My billing and shipping address are the same " Can I help you with anything else? 
+a2ac5: i just was able to place order.  thank you that is all
+b4279: You're welcome.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Is p/n MCP-250-00018-0N a good p/n?  Suppose to be a Blank Panel.  Is it available to purchase?
+b4279: Hi Laurie Let me check for you It is a valid part#, its a power supply blank cover. However, we do not carry it on the eStore so you'll have to check with our distributors: https://www.supermicro.com/en/wheretobuy
+a2ac5: Hello. How may I help you?
+b4279: Hi Rigel!
+a2ac5: Hi! I can't checkout
+b4279: May I know where are you located please?
+a2ac5: The Place Order seems to be disabled https://store.supermicro.com/checkout/#payment *Place Order button
+b4279: May I know where you plan to ship this order to?
+a2ac5: Westford, MA
+b4279: Please give me a moment while I check for you. 
+a2ac5: Thanks
+b4279: Can you please try hard refresh (Ctrl+ F5) or on other browsers?
+a2ac5: It still doesn't woirk
+b4279: Does your billing address is also US-based credit card?
+a2ac5: No. It's issued by Bank of Ireland in the Republic of Ireland
+b4279: I see. Unfortunately, our eStore only accepts US-based credit card at this moment. Do you happened to have a US- based credit card?
+a2ac5: No, I don't. Can I purchase licenses on an EU store?
+b4279: Yes, you can purchase the licenses from our resellers at https://www.supermicro.com/en/wheretobuy I'm sorry for the inconvenience.
+a2ac5: OK. Thanks. No problem. Hello. How may I help you? Hi Jim
+b4279: Hi Jason!
+a2ac5: My order number is Order # 1000023313 Does is come with rack mounting hardware?
+b4279: Please give me a moment while I check for you. 
+a2ac5: NP
+b4279: Yes, it does come with rack mounting hardware
+a2ac5: Do you know what type...rails or shelf or just screws
+b4279: Looks like a rail set. P/N is MCP-290-00150-0N	
+
+Rail set, Auto-latch, quick/quick, default 4U 17.2
+a2ac5: Thats great, thanks!
+b4279: No problem! Is there anything else I may help you with today? 
+a2ac5: Hello. How may I help you?
+b4279: Hi Cara How can I help you today? We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email    It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Lisbeth!
+a2ac5: i need to get my account set up for tax exempt status.
+b4279: We do accept tax-exempt, but it would be applied after the purchase not during the time of purchase.
+
+In order to apply for tax exemption, you would need to provide valid certificate, which you can send to eStore-support@supermicro.com along with your order number.
+
+Your tax-exempt request will be processed after we have verified that the certificate is valid. 
+It usually takes up to 10 business days for the tax amount to return back to your original form of payment.
+  Before submitting a request, please review the tax exempt guide carefully.  Incomplete or incorrect submissions will be rejected.
+https://store.supermicro.com/tax-exemption-guide
+ 
+a2ac5: Hello. How may I help you? I am unable to place my order.  My billing zip code is not being accepted.
+b4279: Hi M Mattson I'm sorry to hear, but I can help you with that What's the address in question?
+a2ac5: (I think that's the reason.)
+150 Clay Street, 2nd Floor
+West Virginia University
+Morgantown, WV 26501-6024
+b4279: Thanks, let me see if I can whitelist this address for you. Please give me a moment. Is the West Virginia University part of it so when you enter the address it's 150 Clay Street, 2nd Floor West Virginia University? or is it company
+a2ac5: I put West Virginia University in the Company box.  Sorry.
+b4279: ok thanks just making sure
+a2ac5: 150 Clay Street, 2nd floor Morgantown WV 26501-6024
+b4279: Ok got it Can you refresh your browser and try again? If it doesn't work, you may have to log out/log back in
+a2ac5: Hello. How may I help you?
+b4279: Hi David!
+a2ac5: I cannot select any country other than USA. But, I am from Germany.
+b4279: I’m sorry, but our OOB license is only available for US-based customers (US billing address) to purchase. Please check with our resellers and distributors for availability.
+
+https://www.supermicro.com/en/wheretobuy  I apologize for the inconvenience.
+a2ac5: I see. Have a nice day. Bye
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Xuan
+a2ac5:  Supermicro 多设备键盘和鼠标组合 (KYB-MUS-196CB)
+Supermicro 多设备键盘和鼠标组合 (KYB-MUS-196CB)
+
+$12.90 How to buy
+b4279: May I know where are you located?
+a2ac5: Shenzhen, China
+b4279: I see. I'm sorry, but unfortunately, our Supermicro eStore currently only ships within the United States. You can check with our resellers and distributors for availability.
+https://www.supermicro.com/en/wheretobuy  Is there anything else I may help you with today? 
+a2ac5: period!thanks
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? Hello. How may I help you?
+b4279: Hi Byron! 
+a2ac5: 'just vaguely curious for your server's.. they don't ship with OS I see.   do you test them before they ship out with something?
+b4279: Yes, we do install OS and test before shipping 
+a2ac5: ok.   but i'm responsible for doing a full OS install when I get it?
+b4279: Correct
+a2ac5: thats all.   thanks for your help!
+b4279: You're welcome.  Do you need server access?
+a2ac5: no I already have server access.    was looking at threadripper pro  stuff
+b4279: I see. If you need any help with any parts you want and not showing on the configurator, please don't hesitate to come to our chat 
+a2ac5: will do.. thanks again and have a great day. Hello. How may I help you? Hello, this is Mischa Baars from the Netherlands. I have a few questions about a couple of your boards. These came out of a selection: Supermicro H12SSL-NT/CT, Asrock Rack TRX40D8-2N2T, Supermicro H12SSL-NT/CT, Asrock Rack ROMED6U-2L2T, Supermicro H12SSL-NT, Supermicro H12SSL-CT. To build a computer with 16, 24, 32, 48 or 64 cores. Now, I'm also working on a new computer chip. And I found this yesterday. https://numato.com/product/aller-artix-7-fpga-board-with-m-2-interface/ Do you think your boards will work with this FPGA development board? It's actually designed for use in a laptop.
+b4279: I see We actually don't know if it will work since it is not tested and validated by our lab You will need to use it at your own risk
+a2ac5: Ah, yes. I understand. Maybe an educated guess? Yes or no? Or it should ... I've never used M.2 before and I don't see it as such on the boards either :)
+b4279: Let me see what I can find. Please give me a moment while I check for you. 
+a2ac5: No problem :)
+b4279: I don't think it will work but you can check with support@supermicro.com again for the advice. 
+a2ac5: Why do you think it won't work?
+b4279: Our 11 the gen motherboards don't support FPGA
+a2ac5: Ok, so support should be built-in?
+b4279: I am not sure what you are asking ?
+a2ac5: Well, you're saying FPGAs are not supported, so I was thinking about low-level code in the BIOS or something.
+b4279: Not sure if that's the case since we don't have information regarding  supporting FPGA
+a2ac5: I can ofcourse also ask the people of Numato. Perhaps they have more experience with the different mother boads? boards So it's more or less undocumented, but not unsupported?
+b4279: It will be good to check with them
+a2ac5: I will.
+b4279: Can I help you with anything else? 
+a2ac5: Eh, no... I suppose that was it then :) Thank you for your help.
+b4279: You're welcome. Sorry can't be anymore help than that.  It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Same to you! Hello. How may I help you? Hello. How may I help you? I'm looking for 3 of these, says in stock but only 1. Is that correct?
+b4279: Hi Jack Yeah, we only have 1 available currently. I can make a request for 2 more pcs to be transferred in stock for availability. This may take several hours to complete and I can email you once they are available 
+a2ac5: That would be great, please do. Once I get he email I will order the all
+b4279: Sounds good!  Can I help you with anything else? 
+a2ac5: No, I'm good
+b4279: It was nice talking to you. I'll be in touch soon. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Clarice!
+a2ac5: Hi, I would like to order 50 GPU cables  - this isn't super urgent so you could ship whatever you have now and the balance later. I had an urgent need for 2 that I already placed and thinking to get another 50 to have on hand
+b4279: We have CBL-PWEX-1016-3 in stock right now. 
+https://store.supermicro.com/supermicro-20cm-8-pin-to-8-pin-power-cable-cbl-pwex-1016-3.html?queryID=c3252a1822ac297e5d625660e40742bb&objectID=1242&indexName=supermicro_default_products
+a2ac5: do you have 50?
+b4279: We have 13pcs in stock. Do you want me to transfer 37pcs more for this?
+a2ac5: Yes and I want to place an order I have one order already placed for 2 units to ship directly to my customer and I want to order another 50 to keep on hand. It won't let me place an order because it says there is not enough in stock
+b4279: I see. I can request inventory for more and email you back when 50pcs of CBL-PWEX-1016-3 are ready in stock.
+a2ac5: sounds good
+b4279: Can I email you back via clarice.simmons@amd.com?
+a2ac5: Yup thanks!
+b4279: You're welcome. Is there anything else I may help you with today?  Hi Clarice, are you still there?
+a2ac5: Nope, thanks so much! Bye bye Hello. How may I help you? Price quote and availability of  for 1,155 pcs of MPN: SNK-P0048PS
+b4279: Hi Tony Please use the following link: https://store.supermicro.com/quote#SNK-P0058PSU
+a2ac5: Hi Kyle
+b4279: The person in charge of quotes/pricing will email you back within 24 hours typically in a few hours I'd say
+a2ac5: thank you. I submitted the RFQ
+b4279: Sounds good and you're welcome! Can I help you with anything else? 
+a2ac5: not at the moment. thank you
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you?
+b4279: Hi Bruce!
+a2ac5: STATUS ON ORDER #1000023475
+b4279: Please give me a moment while I check for you. 
+a2ac5: TRACKING INFO SENT ON 1/11 SAYS IT HAS SHIPPED BUT FEDEX SHOWS PENDING
+b4279: Please give me a moment while I check for you.  Can I email you back via email BWELCH@STELLARENGINEERING.COM? I will need to check internally for this issue. I'm so sorry for this inconvenience
+a2ac5: YES, PLEASE EMAIL ASAP
+b4279: I will reach you as soon as I can  Is there anything else I may help you with today? 
+a2ac5: NOT AT THIS TIME
+b4279: It was nice talking to you. Have a great day, goodbye! 
+a2ac5: Hello. How may I help you? We're looking for a rack mount server with 32 cores, 512GB of RAM, and 2TB of hard drive space. Can you assist with a quote? 1U or 2U
+b4279: Hi Kham Sure, please give me a moment. Do you have an eStore account with us already?
+a2ac5: I do not, new custoer customer
+b4279: ok https://store.supermicro.com/customer/account/create/ Please create an account and verify and I can provide you access to our Servers 
+a2ac5: Got it Account is created
+b4279: Thank you Ok you should have access now, please log into your account 
+a2ac5: ok I'm logged in, where do I go?
+b4279: You should be able to view the servers section now Servers tab
+a2ac5: Is there a spot where I can just put in the specs I need and it pulls the results?
+b4279: Unfortunately, we do not have that feature or capability yet. Let me check based on your specs what would work
+a2ac5: Thank you!
+b4279: For the storage, 2.5" or 3.5" drives?
+a2ac5: 2.5 Or SSD if possible NMVe
+b4279: Ok thanks, let me check 1 processor or 2
+a2ac5: 2 please
+b4279: Ok thanks how many drive slots? 4 or 8+?
+a2ac5: 8+ please
+b4279: https://store.supermicro.com/sys-120c-tn10r.html up to 10 NVMe 
+a2ac5: This is perfect! Thank you!!!
+b4279: You're welcome Configuration 1 is 8 NVMe but you can stick with just SATA/SAS  regular HDDs and SSDs but yeah all the options are there for you to choose
+a2ac5: Ah ok Thanks again, have a great weekend!
+b4279: You're welcome! It was nice talking to you. Have a great day and weekend, goodbye! 
+a2ac5: Hello. How may I help you? Hi Kyle
+b4279: Hi Domenic
+a2ac5: I have two past orders. These are the order numbers:
+ Order # 1000022926 
+ Order # 1000022966 I was wondering if you would be able to retrieve the serial numbers of these servers that we purchased?
+b4279: Sure, let me check on those with Benjamin?
+a2ac5: Correct
+b4279: Ok got it For SYS-5019C-M, the SN is S326082X0A00097 For SYS-5019P-WT:
+
+S263769X9801204 
+S263769X9801208 those 3 servers were for 1000022926 Checking on 1000022966
+a2ac5: Great thank you!
+b4279: For 1000022966, SYS-5019P-WT: S263769X0A04505
+
+a2ac5: Perfect, thanks so much for your help, much appreciated
+b4279: Also, you can register these systems on our eStore for warranty/parts info You're welcome
+a2ac5: Ah I see My Registered Systems now
+b4279: yeah
+a2ac5: Okay I'll take a look there
+b4279: Sure sounds good.  Can I help you with anything else? 
+a2ac5: Nope that's all. Have a great weekend :)
+b4279: Thank you! Have a great weekend! Goodbye
+a2ac5: Bye! Domenic Recchia left the following comment: Very helpful and very fast response time Hello. How may I help you?
+b4279: Hi Laurie
+a2ac5: Hi do you have two of the product (PWS-504P-1R2)
+$202.10
+b4279: Please give me a moment while I check for you. 
+a2ac5: Sorry I meant this one Supermicro 800W/860W 1U Redundant Power Supply (PWS-860P-1R2)
+b4279: I see. Please give me a moment while I check for you.  We currently have 1 in stock for the PWS-860P-1R2 
+https://store.supermicro.com/800w-1u-pws-860p-1r2.html?queryID=cf114bb974632ebfee9416c8db286f18&objectID=2641&indexName=supermicro_default_products I can request 1 more for you but it will take some hours to complete. Can I email you back via supplychain@mbx.com when 2pcs of PWS-860P-1R2 are available? We haven't heard from you in awhile so this chat will be closed in approximately two minutes. We want to make sure we get your questions taken care of so if you need any further assistance, you can reach us here again or email   
+a2ac5: Yes please email when you may have it
+b4279: Thank you for confirming. I will email you back as soon as they are ready. Is there anything else I may help you with today? 
+a2ac5: No that is it! Thank you
+b4279: You're welcome. It was nice talking to you. Have a great day, goodbye! 
